@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekMajhi
-- 👀 I’m interested in data science and AI. And I will be work for Big Techs someday in future as a ML Engineer.
-- 🌱 I’m currently learnin and I am in B.tech 4th year CSE.
-- 💞️ I’m looking to work on different projects on Data science and gain more experiance.
+- 👀 I’m interested in machine learnig and Natural Language Processing.
+- 🌱 I’m currently working as JAVA developer in a MNC.
+- 💞️ I’m really love my work and always ready to learn new technologies.
 - 📫 Reach me on linked in https://www.linkedin.com/in/abhishek-majhi-aa79011a5
 
